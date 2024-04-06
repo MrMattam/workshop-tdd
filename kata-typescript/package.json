@@ -1,0 +1,19 @@
+{
+  "name": "kata-fizz-buzz",
+  "version": "1.0.0",
+  "description": "npm init --y npm install -D typescript @types/jest ts-node ts-jest npx tsc -init",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
